@@ -1,0 +1,704 @@
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 2e-06 seconds ==> 5 million keys per second
+	(Array is sorted.)
+My sort: 0.005805 seconds ==> 0.00172265 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 6e-06 seconds ==> 1.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.007235 seconds ==> 0.00138217 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.5e-05 seconds ==> 6.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.005797 seconds ==> 0.0172503 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000309 seconds ==> 3.23625 million keys per second
+	(Array is sorted.)
+My sort: 0.007258 seconds ==> 0.137779 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.001987 seconds ==> 5.03271 million keys per second
+	(Array is sorted.)
+My sort: 0.009087 seconds ==> 1.10047 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.022957 seconds ==> 4.35597 million keys per second
+	(Array is sorted.)
+My sort: 0.02832 seconds ==> 3.53107 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.25084 seconds ==> 3.98661 million keys per second
+	(Array is sorted.)
+My sort: 0.228433 seconds ==> 4.37765 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.2365 seconds ==> 4.47127 million keys per second
+	(Array is sorted.)
+My sort: 2.57781 seconds ==> 3.87926 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 7e-06 seconds ==> 1.42857 million keys per second
+	(Array is sorted.)
+My sort: 0.009327 seconds ==> 0.00107216 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 6e-06 seconds ==> 1.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.002748 seconds ==> 0.00363901 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.5e-05 seconds ==> 6.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.006523 seconds ==> 0.0153304 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000334 seconds ==> 2.99401 million keys per second
+	(Array is sorted.)
+My sort: 0.007861 seconds ==> 0.12721 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002064 seconds ==> 4.84496 million keys per second
+	(Array is sorted.)
+My sort: 0.004982 seconds ==> 2.00723 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.024278 seconds ==> 4.11896 million keys per second
+	(Array is sorted.)
+My sort: 0.029282 seconds ==> 3.41507 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.244957 seconds ==> 4.08235 million keys per second
+	(Array is sorted.)
+My sort: 0.22683 seconds ==> 4.40859 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.22648 seconds ==> 4.49139 million keys per second
+	(Array is sorted.)
+My sort: 2.59969 seconds ==> 3.84662 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 6e-06 seconds ==> 1.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.009356 seconds ==> 0.00106883 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 4e-06 seconds ==> 2.5 million keys per second
+	(Array is sorted.)
+My sort: 0.003655 seconds ==> 0.00273598 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.4e-05 seconds ==> 7.14286 million keys per second
+	(Array is sorted.)
+My sort: 0.006827 seconds ==> 0.0146477 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000312 seconds ==> 3.20513 million keys per second
+	(Array is sorted.)
+My sort: 0.005362 seconds ==> 0.186498 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002078 seconds ==> 4.81232 million keys per second
+	(Array is sorted.)
+My sort: 0.011391 seconds ==> 0.877886 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.022943 seconds ==> 4.35863 million keys per second
+	(Array is sorted.)
+My sort: 0.027284 seconds ==> 3.66515 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.246339 seconds ==> 4.05945 million keys per second
+	(Array is sorted.)
+My sort: 0.323184 seconds ==> 3.09421 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.23233 seconds ==> 4.47963 million keys per second
+	(Array is sorted.)
+My sort: 2.57464 seconds ==> 3.88403 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 7e-06 seconds ==> 1.42857 million keys per second
+	(Array is sorted.)
+My sort: 0.003704 seconds ==> 0.00269978 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 2e-06 seconds ==> 5 million keys per second
+	(Array is sorted.)
+My sort: 0.007702 seconds ==> 0.00129836 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.4e-05 seconds ==> 7.14286 million keys per second
+	(Array is sorted.)
+My sort: 0.006604 seconds ==> 0.0151423 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000322 seconds ==> 3.10559 million keys per second
+	(Array is sorted.)
+My sort: 0.005819 seconds ==> 0.171851 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002099 seconds ==> 4.76417 million keys per second
+	(Array is sorted.)
+My sort: 0.007239 seconds ==> 1.38141 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.022982 seconds ==> 4.35123 million keys per second
+	(Array is sorted.)
+My sort: 0.033818 seconds ==> 2.95701 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.250289 seconds ==> 3.99538 million keys per second
+	(Array is sorted.)
+My sort: 0.22844 seconds ==> 4.37752 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.35418 seconds ==> 4.24776 million keys per second
+	(Array is sorted.)
+My sort: 2.56892 seconds ==> 3.89268 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 7e-06 seconds ==> 1.42857 million keys per second
+	(Array is sorted.)
+My sort: 0.006056 seconds ==> 0.00165125 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 6e-06 seconds ==> 1.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.003899 seconds ==> 0.00256476 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.4e-05 seconds ==> 7.14286 million keys per second
+	(Array is sorted.)
+My sort: 0.005239 seconds ==> 0.0190876 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000317 seconds ==> 3.15457 million keys per second
+	(Array is sorted.)
+My sort: 0.005419 seconds ==> 0.184536 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.001989 seconds ==> 5.02765 million keys per second
+	(Array is sorted.)
+My sort: 0.007135 seconds ==> 1.40154 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.023039 seconds ==> 4.34047 million keys per second
+	(Array is sorted.)
+My sort: 0.026693 seconds ==> 3.7463 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.250389 seconds ==> 3.99379 million keys per second
+	(Array is sorted.)
+My sort: 0.225616 seconds ==> 4.43231 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.22655 seconds ==> 4.49126 million keys per second
+	(Array is sorted.)
+My sort: 2.55773 seconds ==> 3.90972 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 3e-06 seconds ==> 3.33333 million keys per second
+	(Array is sorted.)
+My sort: 0.006404 seconds ==> 0.00156152 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 5e-06 seconds ==> 2 million keys per second
+	(Array is sorted.)
+My sort: 0.00496 seconds ==> 0.00201613 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.4e-05 seconds ==> 7.14286 million keys per second
+	(Array is sorted.)
+My sort: 0.011925 seconds ==> 0.00838574 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.00032 seconds ==> 3.125 million keys per second
+	(Array is sorted.)
+My sort: 0.005268 seconds ==> 0.189825 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002077 seconds ==> 4.81464 million keys per second
+	(Array is sorted.)
+My sort: 0.006884 seconds ==> 1.45264 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.02304 seconds ==> 4.34028 million keys per second
+	(Array is sorted.)
+My sort: 0.027657 seconds ==> 3.61572 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.249408 seconds ==> 4.00949 million keys per second
+	(Array is sorted.)
+My sort: 0.271446 seconds ==> 3.68397 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.2289 seconds ==> 4.48651 million keys per second
+	(Array is sorted.)
+My sort: 2.5964 seconds ==> 3.85149 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 3e-06 seconds ==> 3.33333 million keys per second
+	(Array is sorted.)
+My sort: 0.009438 seconds ==> 0.00105955 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 6e-06 seconds ==> 1.66667 million keys per second
+	(Array is sorted.)
+My sort: 0.004428 seconds ==> 0.00225836 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.4e-05 seconds ==> 7.14286 million keys per second
+	(Array is sorted.)
+My sort: 0.008351 seconds ==> 0.0119746 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000338 seconds ==> 2.95858 million keys per second
+	(Array is sorted.)
+My sort: 0.007966 seconds ==> 0.125534 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002086 seconds ==> 4.79386 million keys per second
+	(Array is sorted.)
+My sort: 0.007411 seconds ==> 1.34935 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.023037 seconds ==> 4.34084 million keys per second
+	(Array is sorted.)
+My sort: 0.027379 seconds ==> 3.65243 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.24728 seconds ==> 4.044 million keys per second
+	(Array is sorted.)
+My sort: 0.234366 seconds ==> 4.26683 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.22821 seconds ==> 4.48792 million keys per second
+	(Array is sorted.)
+My sort: 2.58676 seconds ==> 3.86584 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 3e-06 seconds ==> 3.33333 million keys per second
+	(Array is sorted.)
+My sort: 0.006504 seconds ==> 0.00153752 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10
+
+Quicksort: 3e-06 seconds ==> 3.33333 million keys per second
+	(Array is sorted.)
+My sort: 0.008292 seconds ==> 0.00120598 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100
+
+Quicksort: 1.7e-05 seconds ==> 5.88235 million keys per second
+	(Array is sorted.)
+My sort: 0.008428 seconds ==> 0.0118652 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000
+
+Quicksort: 0.000328 seconds ==> 3.04878 million keys per second
+	(Array is sorted.)
+My sort: 0.005486 seconds ==> 0.182282 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000
+
+Quicksort: 0.002163 seconds ==> 4.62321 million keys per second
+	(Array is sorted.)
+My sort: 0.037845 seconds ==> 0.264236 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 100000
+
+Quicksort: 0.022921 seconds ==> 4.36281 million keys per second
+	(Array is sorted.)
+My sort: 0.027174 seconds ==> 3.67999 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 1000000
+
+Quicksort: 0.247023 seconds ==> 4.04821 million keys per second
+	(Array is sorted.)
+My sort: 0.227761 seconds ==> 4.39057 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+N == 10000000
+
+Quicksort: 2.23173 seconds ==> 4.48084 million keys per second
+	(Array is sorted.)
+My sort: 2.60107 seconds ==> 3.84457 million keys per second
+	(Array is sorted.)
+	(Arrays are equal.)
+
